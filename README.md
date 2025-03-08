@@ -5,6 +5,7 @@
 </div>
 
 ## 🌟 About the Project  
+⚠️ THE IPYNB MUST BE RAN IN GOOGLE COLAB ⚠️
 This project tackles **code readability classification** and **bug localization** in Python programs! 🧑‍💻✨  
 
 🔹 **Code Readability** 📖: Using a **Convolutional Neural Network (CNN)** to predict how readable a Python snippet is.  
